@@ -1,1 +1,1 @@
-# MySkill_SC-Frontend_in_WebDev-Profile
+# MySkill_ShortClass - Frontend in Website Development - Profile
