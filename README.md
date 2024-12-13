@@ -1,6 +1,6 @@
-# MySkill_ShortClass - Frontend in Website Development - Profile
+# MySkill Short Class: Frontend in Website Development - Profile
 
-This project is part of the MySkill Short Class series, focusing on frontend development for building personal profiles using HTML, CSS, and JavaScript. The goal is to showcase your skills in website development by creating a visually appealing and interactive profile page.
+This project is part of the MySkill Short Class series, focusing on **Frontend in Website Development**. It involves building a personal profile page using HTML, CSS, and JavaScript. The goal is to showcase frontend development skills by creating a visually appealing and interactive profile page.
 
 ## Project Description
 
@@ -40,14 +40,15 @@ cd MySkill_SC-Frontend_in_WebDev-Profile
 
 ## File Structure
 
-The project has the following file structure:
+The project follows this file structure:
 
-```code block
+```plaintext
 MySkill_SC-Frontend_in_WebDev-Profile/
 │
-├── index.html # Main HTML file
-├── styles.css # CSS file for styling
-└── script.js # JavaScript file for interactivity
+├── index.html # Contains the structure and content of the webpage.
+├── styles.css # Contains the styles and layout for the webpage.
+└── script.js # Contains the JavaScript for interactivity (e.g., alert when button is clicked).
+
 ```
 
 ## Key Files
@@ -59,11 +60,11 @@ MySkill_SC-Frontend_in_WebDev-Profile/
 ## Usage
 
 1. Open `index.html` in your preferred browser to see the profile page in action.
-2. The profile page will display your information, and clicking the button will trigger an alert thanking the user for visiting.
+2. The profile page will display your personal information and a button. Clicking the button will trigger a thank-you alert.
 
 ## Contributing
 
-Feel free to fork the repository and submit pull requests for improvements or bug fixes. Please ensure that your contributions adhere to the existing style and coding standards.
+Feel free to fork the repository and submit pull requests for improvements or bug fixes. Please ensure your contributions maintain the existing code style and adhere to the project's guidelines.
 
 **Important**: When contributing, please create a new branch for your changes instead of pushing directly to the main branch. To do this:
 
