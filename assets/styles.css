@@ -95,7 +95,7 @@ footer {
 .btn {
   padding: 10px 20px;
   background-color: #4caf50;
-  color: white;
+  color: #ffffff;
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -103,5 +103,5 @@ footer {
 }
 
 .btn:hover {
-  background-color: #45a049;
+  background-color: #7cc441;
 }
