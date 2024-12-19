@@ -61,13 +61,24 @@ ol li {
   font-size: 1.1rem;
 }
 
-a {
-  color: #4caf50;
+.social-links {
+  list-style-type: none; /* Removes default list styling */
+  padding-left: 0;
+  font-size: 1.1rem;
+}
+
+.social-links li {
+  margin: 10px 0; /* Adds space between list items */
+}
+
+.social-links a {
+  color: #000; /* Menjadikan teks berwarna hitam */
   text-decoration: none;
   font-weight: bold;
 }
 
-a:hover {
+.social-links a:hover {
+  color: #4caf50; /* Mengubah warna teks menjadi hijau saat hover */
   text-decoration: underline;
 }
 
